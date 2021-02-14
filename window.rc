@@ -141,7 +141,7 @@ BEGIN
     CONTROL   "Automatically &remaximize windows when changing monitor",IDC_AUTOREMAXIMIZE,   "Button",BS_AUTOCHECKBOX|WS_TABSTOP, 10,110,195,8
     CONTROL   "Restore AltDrag snapped windows with &normal move",      IDC_NORMRESTORE,      "Button",BS_AUTOCHECKBOX|WS_TABSTOP, 10,120,195,8
     CONTROL   "&Maximize windows snapped at top",                       IDC_AEROTOPMAXIMIZES, "Button",BS_AUTOCHECKBOX|WS_TABSTOP, 10,130,195,8
-    CONTROL   "&Toggle maximize state with left-ckick while moving",    IDC_MAXWITHLCLICK,    "Button",BS_AUTOCHECKBOX|WS_TABSTOP, 10,140,195,8
+    CONTROL   "&Toggle maximize state with left-click while moving",    IDC_MAXWITHLCLICK,    "Button",BS_AUTOCHECKBOX|WS_TABSTOP, 10,140,195,8
     CONTROL   "Rest&ore window with single click like original AltDrag",IDC_RESTOREONCLICK,   "Button",BS_AUTOCHECKBOX|WS_TABSTOP, 10,150,195,8
     CONTROL   "Ro&ll/Unroll windows with Alt+Scroll on title bar",      IDC_ROLLWITHTBSCROLL, "Button",BS_AUTOCHECKBOX|WS_TABSTOP, 10,160,195,8
 END
